@@ -1,0 +1,47 @@
+X:0
+T:Zycanthos Jig
+M:6/8
+C:Roger Wilson
+S:Clare Maher 2008-4-30 [email]
+K:Am
+|:"Am"a2a  gag |    e2a ag2 |    e2c  BcB | A2F "F"F3 |
+| "Am"EAB  cBA | "F"FAB cBA | "G"B2B ed(B | B)"Am"cd cBA :|
+|:"Dm"d2 d2 c2 |    dc2 B2A |    d2 d2 cd | B3 "E"A3 |
+| "Dm"d2 d2 c2 |    dc2 B2A |    d2 d2 cd | "E"ez2 z2 :|
+
+X:1
+T:Brothers in York
+O:england
+C:Welch MS
+M:6/8
+L:1/8
+K:G
+|:EGE G2A|B2e dBG|A2B c2A|B2G FED|
+|EGE G2A|B2e dBG|A2B c2A|BGE E3:|
+|:e3fge|fab fed|e3fge|fed e3|
+e2f g2e|fab fed|e2B c2A|B G E E3:|
+
+X:2
+T: Calliope House
+M: 6/8
+L: 1/8
+R: jig
+K: Dmaj
+|dAA fAA|eAA fAA|Bee e2d|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 e2A:|2 f2fedc|d3 efg|
+a2a faa|eaa faa|g2g fgf|efe dBA|FAA A2F|
+A2B d2e|1  f2f fed|e3 efg:|2 f2fedc| d3 d3|
+
+X: 4
+T: Graemsay
+S: https://thesession.org/tunes/1396
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+% ScottC
+[A2D2] A BAF|A2B d2e|faa baf|efe edB|
+[A2D2] A BAF|A2B d2e|faf edB|d3-d2B:|
+|:ABd [B2F2] A|ABd [B2F2] A|faa baf|efe edB|
+ABd [B2F2] A|ABd [B2F2] A|faf edB|d3-d3:|
+

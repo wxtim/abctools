@@ -1,0 +1,15 @@
+X:1
+T:Roly Gentle
+C:Katheryn Tickell
+R:waltz
+M:3/4
+L:1/8
+N:Use E & B drones.
+K:Edor
+% writefields N T C
+BAF|E2 EF GB|g2 gf ed|B2 BA Bd|F2 FE FG|
+E2 EG Be|^d2 dB AF|B2 eB AF|1 E3:|2 E2 EB c^d||
+e2 ef ge|fd B2 BA|G2 GFGB|FB GB FB|
+e2 ef ge|f^d B2 c2|d2 dB de|fe dB AF|
+e2 ef ge|fd B2 BA|G2 GF GB|FB GB FB|
+e2 ef gb|ag fe ^dB|d2 dB de|fe d||

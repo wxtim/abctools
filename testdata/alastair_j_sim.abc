@@ -1,0 +1,15 @@
+%%landscape
+X: 1
+T: Alistair J Sim
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+d | Bcd G2 B | DGB d2 d | DGB edB  | c3 c2 B |
+    ABc F2 A | DGB d2 d | DFA edc  | B3 B2 d |
+    Bcd G2 B | DGB d2 d | gfg a2 g | e3 e2 c |
+    cde edc  | gfg dBG  | DFA cAF  | G3 G2 A |
+    B3  BAG  | D2 G B2 B| dcB c2 B | A3 A2 F |
+    DFA ABc  | f3 f2 e  | ded ABc  | B3 BGA  |
+    B3 BAG   | D2 G B2 d| gfg a2 g | e3 e2 c |
+    cde edc  | gfg dBG  | DFA cAF  | [1G3 G2 A :|[2G3 |]

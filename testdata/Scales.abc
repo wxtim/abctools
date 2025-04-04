@@ -1,0 +1,46 @@
+X: 1
+T: D Major
+R: three-two
+M: 2/4
+L: 1/8
+K: Dmaj
+|DE FG|ABc2|de fg|ab2|
+
+X: 2
+T: G Major
+R: three-two
+M: 2/4
+L: 1/8
+K: Gmaj
+|GA Bc|de fg|ab3|
+
+X: 3
+T: B flat Major
+R: three-two
+M: 2/4
+L: 1/8
+K: Bb
+|B,C DE|FGAB|cd e2|
+K: C
+|_B,C DE|_FG A_B|cd e2|
+K:Bb
+|Bcde|f2 ga|bc'|
+W:This last the top half of the F whistle.
+X: 4
+T: F Major
+R: three-two
+M: 2/4
+L: 1/8
+K: Fmaj
+W:Played on the B flat whistle
+|FG AB|cde2|
+W:Played on F whistle
+|FGAB|cde2|fgab|
+
+X: 1
+T: D Major
+R: three-two
+M: 6/8
+/L: 1/8
+K: Dmaj
+|dee dee|adc d3|de fg|ab2|

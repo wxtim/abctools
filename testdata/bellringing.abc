@@ -1,0 +1,53 @@
+X:1
+T:No. 82 THE BELL RINGING
+%%score 1 { ( 2 4 6 ) | ( 3 5 ) }
+L:1/4
+Q:1/4=112
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="MusicXML Part"
+V:2 treble nm="MusicXML Part"
+V:4 treble 
+V:6 treble 
+V:3 bass 
+V:5 bass 
+V:1
+"^Moderato." z | z3 | z3 | z3 | z3 | z3 | z3 | z3 |$ z z A | d A F | G B A/ A/ | E A (G/F/) | %12
+w: ||||||||One|day in Oc-|to- ber, Nei- ther|drunk- en nor _|
+ E A, A | D F A |$ G B A | E G F | D2 A/ A/ | d B c | c A d | G B A |$"^rall.""_rall." E G F | %21
+w: so- ber, O'er|Broad- bu- ry|Down I was|wend- ing my|way, When I|heard of some|ring- ing, Some|danc- ing and|sing- ing; I|
+"^a tempo""_a tempo" D F A | G B A | E G F | D2 A/ A/ | d B c | A2 A |$ d B c | A2 A | D F A | %30
+w: ought to re-|mem- ber that|Ju- bi- lee|day. 'Twas in|Ash- wa- ter|town, The|bells they did|soun' They|rung for a|
+ G B A | E G F | D2 A/ A/ | d B d |$ c A c | d B d | c A F | D F A | G B A | E G F | %40
+w: belt and a|hat laced with|gold, But the|men of North|Lew, Rang so|stea- dy and|true That there|ne- ver were|bet- ter in|De- von, I|
+ D2"_Fine.""^D.C." |] %41
+w: hold.|
+V:2
+ (d | B G e | c A f | B) (g/f/e/d/ | c/B/A/G/F/E/ | F A) ([Fd]/[Ge]/ | [Af] [Fd] [Ge] | %7
+ [EGB] c- c |$ d2) z | [Fd] [DA] [DF] | G B A | E A G/F/ | E2 F/E/ | D F A |$ G B A | E G F/E/ | %16
+ D2 d/e/ | f (g/f/e/d/) | (c/B/ A) (d/c/) | (B/A/G/F/E/D/) |$ (C/D/E/)(G/F/E/) | D F A | d2 d | %23
+ d3/2 e/ c | d2 [CA] | [DAd] [DGB] [EGc] | A3 |$ [DAd] [DGB] [EGc] | A2 A | D F A | G B A | %31
+ E G F/E/ | D2 z | [Fd] [DB] [Fd] |$ ([ca]/[Bg]/[Af]/[Ge]/[Fd]/[Ec]/) | [Fd] [DB] [Fd] | %36
+ ([ca]/[Bg]/[Af]/[Ge]/[Fd]/[Ec]/) | [Fd] [DA] [DF] | G B G | E G F | D2"_Fine.""^D.C." |] %41
+V:3
+ z | (D B, G, | A, C D) | z3 | z3 | z3 | [A,,A,]3 | A,,3 |$ D,2 z | D, F, D, | B, G, A, | %11
+ G, F, G, | A, A,, A,/G,/ | F, D, C, |$ B,, G,, A,, | G, E, A,/G,/ | [D,F,]2 x | z3 | z3 | %19
+ (D/C/B,/A,/G,/F,/) |$ (E,/F,/G,/)(B,/A,/G,/) | [F,A,] D C | B,2 A, | G, E, A,, | D,2 A,/G,/ | %25
+ F, G, E, | [A,,,A,,]2 A,/G,/ |$ F, G, E, | [A,,,A,,]2 A,/G,/ | F, D, C, | B,, G,, A,, | %31
+ G, E, A,/G,/ | F,2 z | [D,A,] [G,B,] [D,A,] |$ [A,,A,]3 | [D,A,] [G,B,] [D,A,] | [A,,A,]3 | %37
+ [D,A,] [F,A,] [D,A,] | B, G, A, | G, E, A,/G,/ | [D,F,]2 |] %41
+V:4
+ x | x3 | x3 | G E G | A/G/F/E/D/C/ | D [CE] B, | x3 | x [EG] [FA]/[EG]/ |$ [DF]2 z | x3 | D2 C | %11
+ B, C/D/E/D/ | D C/B,/ C | D2 E |$ D2 C | B,2 C | x2 F/G/ | A (B/A/G/F/) | (E/D/ C) (F/E/) | x3 |$ %20
+ x3 | D2 E | A G F | [EB] [GB] [FA]/[EG]/ | [DF]2 x | x3 | [EG] [DF] [CE] |$ x3 | [EG] [DF] [CE] | %29
+ D2 E | D2 C | B,2 C | x3 | x3 |$ x3 | x3 | x3 | x3 | D2 C | B,2 C | x2 |] %41
+V:5
+ x | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x2 A,, | x3 | x3 | %18
+ x3 | x3 |$ A,,3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x2 A,, | D,2 z | x3 |$ x3 | %35
+ x3 | x3 | x3 | x3 | x2 A,, | x2 |] %41
+V:6
+ x | x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | %19
+ x3 |$ x3 | x3 | D2 x | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | x3 | x3 | x3 | x3 |$ x3 | x3 | x3 | %37
+ x3 | x3 | x3 | x2 |] %41
+

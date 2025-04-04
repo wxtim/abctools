@@ -1,0 +1,138 @@
+%%beginml
+<H1 style="text-align:center">
+Isambards Gasket Rats
+</h1> 
+<p style="text-align:center">
+Tunes arranged for Northumbrian Smallpipes and 
+other B-flat instruments.
+</p>
+<p style="text-align:center">
+Recommended drones tuning to Ee (NSP tuning)
+</p>
+<br>
+<br>
+<br>
+<br>
+<center>
+<img src="../images/ratslogo.png" style="align:center">
+%%endml
+
+%%newpage
+X:1
+T:Dvmnonia
+C:Tim Pillinger
+M:2/2
+K:Em
+L:1/4
+V:sticks lines=1 clef=perc
+V:music
+V:strummed
+[V:music]cB| AB A>z | AB A>z | AB cd |cd e2 | \
+dc Bc | d2 d2 | cB cd | e2 e2 | 
+AB A>z | AB A>z | AB cd |cd e2 | \
+dc BA | GF ED | EA cG | A2 A2 ||
+ege2| B2B2 | agf2 | ^d2e2 | 
+ege2 | B2B2 | fedc | B2 B2 :| edcB | A2 A2 ||
+[V:sticks] x |x2 |x2 | x2 | x2 | x2 |x2 | x2 | x2 | x2 | x2 |x2 | x2 | x2 | x2 | x2 | x2 ||
+B/2B/2B | "throw"zB| B/2B/2B | "throw"zB|B/2B/2B | "throw"zB|[1B/2B/2B | "throw"zB:|[2B/2B/2B | "throw"zB||
+
+X:2
+T:The Beginning
+C:Jackie Tolliday-Bailey
+M:4/4
+L:1/8
+K:Em
+G2B2F2B2 | GFGA BAGB | G2B2 F2B2 | GFEF E4 | 
+G2B2F2B2 | GFGA BAGF | G2B2 F2B2 | EFGF E4 ||
+efga bgeB | efga f2 B2 |efga bgeB |efge f4 | 
+efga bgeB | dBAF B4 | BcBA BGEB,| dBAG E4 ||
+
+X:3
+T:Devon
+C:Jackie Tolliday-Bailey
+M:4/4
+L:1/8
+K:Em
+GF | E2 EF GFGA | BcBG E2 GE | F2 FG AFDF | AGFE D2 GF |
+E2 EF GFGA | B2 e2 e2 B2 | c3/2  B AGFD | EFGF E4 ||
+B2 e2 efge | efed B2 B2 | c3/2 B ABcA | BcBG E4 |
+B2 e2 efge | efed B2 B2 | A3/2G F2D2 |EFGF E4 ||  
+
+X:4
+T:Jetstream (2)
+C:Jackie Tolliday-Bailey
+M:4/4
+L:1/8
+K:Em
+E2 EF G2B2 | cBAc BAGF | E2 EF G2B2 | cBAc B4 |
+e2 BB G2 B2 | cBAc BAGF | E2 EF G2 c2 | BAGF E4 ||
+e2 ef g2 a2 | bagf g2 ee | d2 de f2 g2 | abaf d4 |
+E2 EF G2 A2 | BcBA BG E2 | E2 EF G2 c2 | BAGF E4 ||
+
+X:5
+T:Pathways
+C:Jackie Tolliday-Bailey
+M:4/4
+L:1/8
+K:Bm
+ABcB ABcB |ABcB A4 | Bcdc Bcdc | Bcdc B4 |
+ABcB ABcB |ABcA e4 | e2 Bcdc B2 | GBdB A4 ||
+ABcd e2 z2 | GABc d2 z2 | ABcd e2 z2 | efed edcB |
+ABcd e2 z2 | GABc d2 z2 | ABcd e2 z2 | dG dB A2 ||
+
+X:6
+T:Phoenix
+C:Jackie Tolliday-Bailey
+M:4/4
+L:1/8
+K:Bm
+f>z e>z d>z c>F | B>c d>e f>e d>c |\
+f>z e>z d>z c>F | B>c d>e f4 |
+f>z e>z d>z c>f | g>e f>g f>e d>c |\
+f>z e>z d>z c>F | B>c d>c B4 ||
+(3cdc F>c d>c B>A | (3BcB F>B c>B d>B |\
+(3cdc F>c d>c B>A | B>c d>c B4 :|
+
+X:7
+T:Whirlygig
+C:Jackie Tolliday-Bailey
+M:4/4
+L:1/8
+K:Bm
+dc | B2F2 D2F2 | BABc d2 cB |\
+ A2E2 C2E2 | cdcB A2 dc |
+B2 F2 D2 F2 | BABc d2 cB | \
+A2 dd A2 d2 | cBAc B2 dc |
+B2 BA B2 F2 | BcBA B2 F2 | \
+A2 AB A2 A2 | ABA^G A2 A2 |
+B2 BAB2  F2 | BcBA B2 F2 | \
+d2B2F2B2 | cBcd B2 ||
+
+X:8
+T:Tregesal
+C:Jackie Tolliday-Bailey
+K:Emin
+M:4/4
+L:1/8
+%%beginml
+Story: The witches of Tregeseal were turned to stone,
+but come to life and dance at full moon.
+%%endml
+%%text Verse
+A | BEED E2 EA | BEED E2 E2 | D3 F A4 | BcBA GFEA |
+BEED E2 EA | BEED E2E2 | D3 F A4 | BAGF E3 B ||
+%%text Chorus
+| Beef gf e2 | Beef g4 | Aeef gf d2 | Adde f4 |
+Beef gf e2 | Beef g4 | B3 A G2 E2 | FGAB E4 |]
+
+X:9
+T:Changing Times
+C:Kevin McKeogh
+K:Cmaj
+M:none
+M:4/4
+L:1/8
+"Am" e2 c2 A2 cA | "E7" BA^GA BcdB | "Dm" e2d2e2f2 | "E" fdcA B4 |
+"Am" e2 c2 A2 cA | "E7" BA^GA Bcdc | "Dm" d2e2A2e2 | "E" edcB A4 ||
+"Am" A2 AB c2 d2 | "E7" cBA^G AEcE | "Dm" A2cBA2d2 | "E" c^GAc B4 |
+"Am" A2 AB c2 d2 | "E7" cBA^G ABcA | "Dm" c2cBA2d2 | "E" e^GAB A4 |]

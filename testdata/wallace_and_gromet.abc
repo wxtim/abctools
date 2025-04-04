@@ -1,0 +1,40 @@
+X: 0
+T: Wallace & Gromit Theme
+C: Julian Nott
+M: 4/4
+L: 1/8
+K: F
+c2.B.A c2.B.A | .c(GG6) | \
+.d.c.d e2 .d.c.B | AA/2c/2 fc fcfa |
+c2 .B.A c2 .B.A | .c(GG6) | \
+.d.c.d e2 d2 .e | f c .f.fed |
+f2 .e d2 .f.e.d | f2 .d c2 .c.=B.c | \
+dcdc A<GAG>A | (A4 A).A.^G.A |
+A2 .G E2 .E.^D.E | G2 .F D2 .D.^C.D |\
+FDF A2 F2 A | f<ff/2 z2 f z c z|
+[M:2/4] a^d ec | \
+[M:4/4] c2 .B.A c2 .B.A | .c(GG6) | .d.c.d e2 .d.c.B |
+AA/2c/2 fc fcfa | c2 .B.A c2 .B.A | \
+.c(GG6) | .d.c.d e2 d2 .e |
+f2c2/f2 z2 |
+
+
+X:
+T:Wallace & Gromit Theme
+C:Julian Nott
+M:4/4
+L:1/8
+K:Gmaj
+d2.c.B d2.c.B | .d(AA6) | \
+.e.d.e f2 .e.d.c | BB/2d/2 gd gdgb |
+d2 .c.B d2 .c.B | .d(AA6) | \
+.e.d.e f2 e2 .f | g d .g.gfe |
+g2 .f e2 .g.f.e | g2 .e d2 .d.^c.d | \
+eded B<ABA>B | (B4 B).B.^A.B |
+B2 .A F2 .F.^E.F | A2 .G E2 .E.^D.E |\
+GEG B2 G2 B | g<gg/2 z2 g z d z|
+[M:2/4] b^e fd | \
+[M:4/4] d2 .c.B d2 .c.B | .d(AA6) | .e.d.e f2 .e.d.c |
+BB/2d/2 gd gdgb | d2 .c.B d2 .c.B | \
+.d(AA6) | .e.d.e f2 e2 .f |
+g2dg2 z2 |

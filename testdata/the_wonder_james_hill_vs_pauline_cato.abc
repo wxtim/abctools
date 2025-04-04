@@ -1,0 +1,17 @@
+X: 1
+T:The Wonder
+K:G
+L:1/8
+M: 4/4
+%%text Comparison of James Hill and Pauline Cato
+V:T1 name="James Hill"
+    (3def | GdBG FcAF | GABG D2 GF | EGAB cBAG | FAd^c (3fed (3=cBA |
+        GdBG FcAF | GABG D2 GF | Eedc BAGF | AF G2 [1 G2 :| [2 G ||
+    |:x (3BAG | FAd^c d2 AG | FAd^c dfed | ^cdef gece | d^cde .d2 =c2|
+    BcBA GB e2 | ABAG FAd^d | egfe dc BA | G2B2G2 :|
+V:T2 name="Pauline Cato"  
+    DF | GdBG FcAF | GABG D2 GF | E^GAB cBAG | FAd^c ed (3=cBA |
+        GdBG FcAF | GABG D2 GF | Eedc BAGF | AF G2 [1 G2 :| [2 G ||
+    |:B AG | FAd^c d2 AG | FAd^c dfed | ^cdef gece | d^cde "A".d2 =c2|
+    BcBA ^GB e2 | ABAG FAd^d | egfe (3ded (3cBA | (3GBd (3gdB G2 :|
+%%text A: Chris suggested clipping this note to emphasize the surpise of the C natural to come.

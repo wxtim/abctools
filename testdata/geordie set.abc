@@ -1,0 +1,24 @@
+X:1
+T:Geordie Set
+L:1/8
+M:6/8
+K:G
+%%text Billy Boy
+B2 c | d2 d c2 B | A3 B2 A | G3 A2 F | G3 B2 c | d2 d ^c2 d |
+e2 d ^c2 d | (A6 | A3) d2 d | e2 d e2 f | g2 f g2 e | 
+d2 B cBA | G2 F E2 D | G2 G BAG | d2 d e2 g | B2 G A2 F |1 G3 :|2(G3 G2) |]
+%%text Keel Row
+|: c | B2 G>B c2 A>c | B2 G>B A>F D>c | \
+B2 G>B c2 A>c | B>G A>F G3 :|
+|: d | B<d d>g e2 d>c | B2 G>B A>F D>c | \
+B<d d>g e2 d>c |99 B>G A>F G3 :| B>G A>F G4 |]
+%%text Bobby Shafto
+M:4/4
+GG Gc | Bd BG | DD DG | FA FD | GG Gc | Bd BG |
+Ac AF | G2 G2 || Bd BG | Bd B2 | Ac AF | 
+Ac A2 | Bd BG | Bd B2 | Ac AF |1 G2 G2 :|2 G2 |]
+%%text Keep Yor Feet Still
+GB | ddde dBAG | cdef g2 fe | dd^cd edBG | A2 A>B ADGB |
+ddde dBAG | cdef g2 fe | ddfe d^c=cA | G6 AB | 
+cccc c<cdc | c<BB>A B2 GB | dddd edBG | A6 GB |
+d<dde dBAG | cdef !fermata!g2 "^1 2 3 Off"fe | ddfe d^c=cA | G6 |]

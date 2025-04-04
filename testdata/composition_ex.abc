@@ -1,0 +1,124 @@
+X:0
+T:2025-02-18
+T:Whipton Barton Rant
+M:4/4
+L:1/8
+K:G
+%%text Rant, simple. Keyless
+%% When I first wrote this I liked the simplicity and
+%% that the b part almost deliberately subverts the usual rant
+%% note changes, but now it just seems simple. :(
+B>c | dBgB dBgB | d2 c4 A>B | cAfA cAfA | c2B4 B>c |
+dBgB dBgB | d2A4 A>B | cAfe dcBA | [1 G2 B2 G2 :| [2 G6 :|
+B>c | dBdB dBdB | d2A4 A>B | cAcA cAcB/2A/2 | c2 B4 B>c |
+dBeB dBgB | d2 A4 A>B | cAdA eAfA | def ~g3 |
+
+X:1
+T:2025-02-21
+T:Mucky Ducky, Seal at Topsham
+M:3/2
+L:1/8
+K:G
+%% Consider whether the patter of the first three bars
+%% should be applied consistently across the tune.
+%% Worked nicely with d or e single drone - 
+%% switches between majory and minory from bar to bar and works
+%% nicely with either.
+GABc d2 | G2 F2 G2 | EG D2 GA | 
+GABc d2 | g2 f2 g2 | ag f2 AB |
+agfe d2 | A2 c2 E2 | AB c2 F2 |
+ABcd e2 | E2 A2 c2 | BA G2 FG |
+["Non Final times" ABcd e2 | a2 f2 d2 | gfed c2 | c2 B2 A2 :|
+["Last time"gfed A2 | c2 B2 F2 | G4 ed :|
+
+X:2
+T:2025-02-25
+T:Peter Crawley's
+M:6/8
+L:1/8
+K:G
+%%
+d>cB  B>AG | G>FE D3 | DGA BAG | d<cB {B}A3 |
+d>cB  B<AG | G>FE D3 | D>GB d<cB | A2 {BA}G3 A ||
+~B3 ~c3 | B3 A3 | B<cd d>cB | B>AG A2 A|
+~B3 ~c3 | B3 A3 | B>cd e>dc | B<dF G2 |
+
+X:3
+T:2025-02-25
+T:Sarah's Birthday Hornpipe, One Year Short of the Ultimate Answer
+T: The Yeovilton Shredder, The Naughty Party
+M:4/4
+K:G
+L:1/8
+(3GBd | g>d B>G D>G B>g | f>A A>B A2 A>B | c>A F>A D>A FA | e>d d>^c d2 (3GBd |
+ | g>d B>G D>E F>G | f>A A>G A2 (3ABc | f>A F>A d>a f>d | (3ded (3cBA G2 :|
+ GA BG FG D2 | (3FGA BG FG A2 | ABcA FA f2 | f>e e>d d>^c d2 |
+ GA BG FG D2 | (3GBd g>d B>G A2 | A>B c>A F>A f>e | (3ded (3cBA G2 :|
+
+X:4
+T:2025-03-13
+M:3/2
+L:1/4
+K:D
+%%Not sure this isn't another 6/8 march!
+D E F | F/2F/2 F2 | E F  B |A/2F/2 A2 |
+D E F | F/2F/2 F2 | E F E | E/D/2 E2 |
+D E F | F/2F/2 F2 | d/2B/2 B/2A/2 A/2B/2 | A2 B^c |
+DE F |e dB | A F D | D/2D/2 D2 :|
+
+X:5
+T:2025-03-13.2
+T:The house that moved
+M:5/4
+L:1/4
+K:G
+%% Strains 1-3 ar nice, but I'm not so keen on 4
+dcBA2 | ABAFA | ABAFA | AB^cd2 :|
+agf e2 | gfefd | GFEFd | agfd2 :|
+[L:1/8]d2 cB A2 F2 A2| A2 cB A2 FG A2 | A2 cB A2 FG A2 | A2B2^c2d4 :|
+d2 cB AG FE A2| A2 cB A2 FG A2 | A2 cB AG FG A2 | A2B2d^cd4 :|
+a2g2f2 efg2 | fed2 edc4 | F2 G2 ABA F3 | a2g2fed4 :|
+a2 gA fA e4 | G2F2E2F2d2 | a2g2f2g2e2 | G2F2E2D4 :|
+
+
+X:6
+T:2025-3-28
+T:D'Accord!
+M:4/4
+L:1/8
+K:G
+%% Aim for Scottische
+GBgd B2 B2 | ABcB A2 z2 | DEFG ABcd | e2 d2 g2 B2 |
+GBgd B2 B2 | ABcd e2 d2 | DEFG ABcd | e2 f2 g4 |
+d2 d2 Bd G2 | d2 d2 Bd A2 | AB c2 Bc d2 | e2 d2 gd  B2 |
+d2 d2 Bd G2 | d2 d2 Bd A2 | AB c2 Bc d2 | cdef g4 :|
+
+X:7
+T:2025-3-28
+T:D'Accord!
+M:4/4
+L:1/8
+K:G
+%% Aim for Scottische
+%%transpose +2
+[V:nsp clef=treble transpose=1]GBgd B2 B2 | ABcB A2 z2 | DEFG ABcd | e2 d2 g2 B2 |
+GBgd B2 B2 | ABcd e2 d2 | DEFG ABcd | e2 f2 g4 |
+d2 d2 Bd G2 | d2 d2 Bd A2 | AB c2 Bc d2 | e2 d2 gd  B2 |
+d2 d2 Bd G2 | d2 d2 Bd A2 | AB c2 Bc d2 | cdef g4 :|
+
+X:8
+T:2025-3-28
+T:D'Accord! (Minor)
+M:4/4
+L:1/8
+K:Am
+Acae c2 c2 | Bcde d2 E2 | FGAB cdef | g2 e2 a2 e2 |
+Acae c2 c2 | Bcde d2 D2 | EFGA Bcde | fgaf d4 :|
+e2 e2 ce A2 | e2 e2 ce G2 | ABcd e2 de | gfe^d c2A2 |
+e2 e2 ^ce A2 | e2 e2 ce G2 | ABcd e2 de | gfed c4 :|
+
+X:9
+T:2025-03-30
+M:4/4
+L:1/8
+K:G
